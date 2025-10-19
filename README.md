@@ -7,7 +7,7 @@
   </p>
   <a href="https://pypi.org/project/bytebub-discord-multitool/0.1.0/"><img src="https://img.shields.io/pypi/v/bytebub-discord-multitool?color=red&style=for-the-badge" /></a>
   <a href="https://github.com/ByteHub-Official/Bytebub-Discord-Multitool/actions"><img src="https://img.shields.io/github/actions/workflow/status/ByteHub/bytebub-discord-multitool/ci.yml?label=CI%20Build&style=for-the-badge" /></a>
-  <a href="https://github.com/ByteHub=Official/Bytebub-Discord-Multitool"><img src="https://img.shields.io/github/stars/ByteHub/bytebub-discord-multitool?style=for-the-badge&color=yellow" /></a>
+  <a href="https://github.com/ByteHub-Official/Bytebub-Discord-Multitool"><img src="https://img.shields.io/github/stars/ByteHub/bytebub-discord-multitool?style=for-the-badge&color=yellow" /></a>
 </div>
 
 ---
