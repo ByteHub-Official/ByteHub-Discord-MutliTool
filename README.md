@@ -1,1 +1,2 @@
-# ByteHub-Discord-MutliTool
+# ByteBub Discord MultiTool
+Created by ByteHub.
