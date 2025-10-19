@@ -22,7 +22,7 @@ Built with ❤️ by [ByteHub](https://github.com/ByteHub-Official), it’s engi
 
 ### ⚙️ Features
 
-- 🧠 **Command-line Installer** — `bytebub setup` handles environment setup & Docker deployment  
+- 🧠 **Command-line Installer** — `bytehub setup` handles environment setup & Docker deployment  
 - 🐍 **Python SDK** — Scaffold new bots instantly  
 - 🚀 **FastAPI Web Dashboard** — Manage bots & perform admin tasks  
 - 🔒 **Secure OAuth Integration** — Add managed bots without sharing raw tokens  
@@ -35,4 +35,4 @@ Built with ❤️ by [ByteHub](https://github.com/ByteHub-Official), it’s engi
 ### 💻 Installation
 
 ```bash
-pip install bytebub-discord-multitool
+pip install bytehub-discord-multitool==0.1.0
