@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: bytebub-discord-multitool
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: bytebub-discord-multitool
+  template:
+    metadata:
+      labels:
+        app: bytebub-discord-multitool
+    spec:
+      containers:
+      - name: web
+        image: ghcr.io/bytehub/bytebub-discord-multitool:latest
+        ports:
+        - containerPort: 8000
+        envFrom:
+        - secretRef:
+            name: bytebub-discord-multitool-secrets
